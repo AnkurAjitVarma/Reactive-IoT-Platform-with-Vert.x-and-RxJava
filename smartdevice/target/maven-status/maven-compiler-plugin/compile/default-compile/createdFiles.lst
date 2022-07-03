@@ -1,0 +1,10 @@
+communications\Mqtt.class
+com\smarthome\smartdevice\MainVerticle.class
+communications\Http.class
+sensors\Sensor.class
+sensors\TemperatureSensor.class
+sensors\eCO2Sensor.class
+devices\HttpDevice.class
+devices\MqttDevice.class
+sensors\HumiditySensor.class
+devices\Device.class

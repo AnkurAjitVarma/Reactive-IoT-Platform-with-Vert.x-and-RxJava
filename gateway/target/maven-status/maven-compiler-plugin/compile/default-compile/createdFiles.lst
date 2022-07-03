@@ -1,0 +1,6 @@
+com\smarthome\gateway\MainVerticle.class
+http\Registration.class
+discovery\DiscoveryManager.class
+mqtt\MqttManager.class
+http\DevicesHealth.class
+http\RegistrationData.class

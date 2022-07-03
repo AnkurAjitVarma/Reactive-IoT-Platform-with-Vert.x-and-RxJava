@@ -1,0 +1,8 @@
+handlers\UnsubscribeHandler.class
+data\MongoStore.class
+com\smarthome\broker\MainVerticle.class
+handlers\DisconnectHandler.class
+data\Store.class
+handlers\PublishHandler.class
+handlers\EndPointHandler.class
+handlers\SubscribeHandler.class
