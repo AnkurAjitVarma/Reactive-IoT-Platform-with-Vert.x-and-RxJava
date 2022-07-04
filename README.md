@@ -14,7 +14,7 @@ Search the line with 127.0.0.1 localhost and update it to this:
 You will need a MongoDb DataBase and a Redis DataBase (for the Gateway). In the Docker Compose project (smart.home), start the containers:
 
 ```bash
-docker-compose up
+docker compose up
 ```
 ### Start the MQTT Broker
 
