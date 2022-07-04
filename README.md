@@ -80,7 +80,7 @@ java -jar target/webapp-1.0.0-SNAPSHOT-fat.jar
 ```
 ## Test the web application
 
-- Open this url [http://localhost:8080/](http://localhost:8080/) in your browser
+- Open this url [https://webapp.smart.home:8080/](https://webapp.smart.home:8080/) in your browser
 - You'll get the UI of the application
 - Authenticate yourself (username: `root`, password: `admin`)
 - Then, the graphics of the data of the devices will appear
