@@ -7,6 +7,6 @@
 
 Search the line with 127.0.0.1 localhost and update it to this:
 
-127.0.0.1	localhost redis-server mongodb-server mqtt-server gateway.home.smart devices.home.smart vert-x-mqtt-server webapp.smart.home
+127.0.0.1	localhost redis-server mongodb-server gateway.home.smart devices.home.smart vert-x-mqtt-server webapp.smart.home
 
 
