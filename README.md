@@ -75,7 +75,7 @@ MQTT_PORT=1884 \
 MQTT_TOPIC="house" \
 java -jar target/smartdevice-1.0.0-SNAPSHOT-fat.jar
 ```
-## Start the web application with the jar file
+### Start the web application with the jar file
 
 Then you can start the web application locally
 
