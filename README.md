@@ -1,5 +1,5 @@
 # Reactive-IoT-Platform-with-Vert.x-and-RxJava
-![]([https://drive.google.com/file/d/1T86E0XWb2Zush684n-h3338JWr4yhLmr/view?usp=sharing](https://1drv.ms/u/s!ApJrHeSFXvKegtQ5kwEDoWDrYE8nzg?e=jcekcK))
+![](https://github.com/AnkurAjitVarma/Reactive-IoT-Platform-with-Vert.x-and-RxJava/blob/main/Reactive%20IoT%20Platform.png?raw=true)
 
 There are two kinds of IoT devices HTTP and MQTT. HTTP devices make a POST request to the gateway to register themselves and the gateway keeps track of registered devices using service discovery. The gateway also periodically makes GET requests to the HTTP devices to get their current state and passes it to the MQTT broker.
 
